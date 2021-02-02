@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔹sudo root hello there
-My name is Chouaib Boubekeur and I'm a software developer, 
-
+  My name is Chouaib Boubekeur and I'm a web developer,
+  I'm currently learning node, react js, and Django📌🔭
+  
