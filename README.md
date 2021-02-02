@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Django && React
+🔹sudo root hello there
+My name is Chouaib Boubekeur and I'm a software developer, 
+
