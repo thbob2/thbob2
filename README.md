@@ -24,8 +24,7 @@ Here are some ideas to get you started:
   
   [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
   [<img align="left" alt="codeSTACKr | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-  [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-  [<img align="left" alt="codeSTACKr | BeHance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
+
   
   <br />
   
@@ -51,6 +50,10 @@ Here are some ideas to get you started:
 ---
 
  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thbob2&show_icons=true&hide_border=true" />
+ 
+ 
+ 
+ 
  [linkedin]: https://www.linkedin.com/in/chouaib-boubekeur
  [facebook]: https://www.facebook.com/chouaib.bob2/
  [instagram]: https://www.instagram.com/itsboeplz/
