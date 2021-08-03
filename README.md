@@ -56,7 +56,7 @@ Here are some ideas to get you started:
  
  
  
- [linkedin]: https://www.linkedin.com/in/chouaib-boubekeur
+ [linkedin]: https://www.linkedin.com/in/chouaib-boubekeur-48244b198/
  [facebook]: https://www.facebook.com/chouaib.bob2/
  [instagram]: https://www.instagram.com/itsboeplz/
  [behance]: https://www.behance.net/itsboe
