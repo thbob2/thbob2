@@ -67,10 +67,10 @@ Here are some ideas to get you started:
 <h2>💬 Find me here:</h2>
 <br>
 <div style="display: inline_block" align="center">
-<a href="https://www.linkedin.com/in/chouaib-boubekeur/"><img src="https://img.shields.io/badge/-Chouaib%20Boubekeur%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/itsboeplz"><img src="https://img.shields.io/badge/-@itsboeplz-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/chouaib-boubekeur/" target="_blank"><img src="https://img.shields.io/badge/-Chouaib%20Boubekeur%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/itsboeplz" target="_blank"><img src="https://img.shields.io/badge/-@itsboeplz-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
-<a href="https://www.facebook.com/chouaib.bob2"><img src="https://img.shields.io/badge/-Chouaib%20Boubekeur%20-0077B?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/chouaib.bob2" target="_blank"><img src="https://img.shields.io/badge/-Chouaib%20Boubekeur%20-0077B?style=flat&logo=Facebook&logoColor=white"/></a>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I36PBDD)
 
