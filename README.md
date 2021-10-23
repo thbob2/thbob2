@@ -36,30 +36,34 @@ Here are some ideas to get you started:
   </p>
   <h2 align="center">💻 Technologies :</h2>
 </p>
-<div align="center" style="display: inline_block" >
-  <i style="font-size:40px; background-color:yellow; border-radius:50% " class="devicon-linux-plain colored"></i>
-  <i style="font-size:40px" class="devicon-bash-plain"></i>
-  <i style="font-size:40px" class="devicon-git-plain colored"></i>
-  <i style="font-size:40px" class="devicon-vim-plain  colored"></i>
-  <i style="font-size:40px" class="devicon-vscode-plain colored"></i>
-  <i style="font-size:40px" class="devicon-html5-plain colored"></i>
-  <i style="font-size:40px" class="devicon-css3-plain colored"></i>
-  <i style="font-size:40px" class="devicon-bootstrap-plain colored"></i>
-  <i style="font-size:40px" class="devicon-sass-original colored"></i>
-  <i style="font-size:40px; border-radius:50%;" class="devicon-javascript-plain colored"></i>
-  <i style="font-size:40px" class="devicon-nodejs-plain colored"></i>
-  <i style="font-size:40px" class="devicon-npm-original-wordmark colored"></i>
-  <i style="font-size:40px" class="devicon-yarn-plain colored"></i>
-  <i style="font-size:40px" class="devicon-react-original colored"></i>
-  <i style="font-size:40px" class="devicon-docker-plain colored"></i>
-  <i style="font-size:40px" class="devicon-laravel-plain colored"></i>
-  <i style="font-size:40px" class="devicon-php-plain colored"></i>
-  <i style="font-size:40px" class="devicon-python-plain colored"></i>
-  <i style="font-size:50px" class="devicon-django-line-wordmark colored"></i>
-  <i style="font-size:50px" class="devicon-mysql-plain-wordmark colored"></i>
-  <i style="font-size:50px" class="devicon-mongodb-plain-wordmark colored"></i>
-  <i style="font-size:50px" class="devicon-neo4j-plain-wordmark colored"></i>
-  <i style="font-size:40px" class="devicon-markdown-original"></i>
+<div align="center" style="display: inline_block; padding-top:10px; background-color:#FFEBCD; border-radius:20px" >
+<img width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" />
+  <img width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+ <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img   width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+ <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+
+ <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+ <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+ <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+ <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+ <img width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
+  <img width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+ <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+ <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" />
+ <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 
 </div>
 <br>
@@ -69,9 +73,9 @@ Here are some ideas to get you started:
 <br>
 <div style="display: inline_block" align="center">
 <a href="https://www.linkedin.com/in/chouaib-boubekeur/" target="_blank"><img src="https://img.shields.io/badge/-Chouaib%20Boubekeur%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/itsboeplz" target="_blank"><img src="https://img.shields.io/badge/-@itsboeplz-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/itsboeplz" target="_blank"><img  src="https://img.shields.io/badge/-@itsboeplz-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
-<a href="https://www.facebook.com/chouaib.bob2" target="_blank"><img src="https://img.shields.io/badge/-Chouaib%20Boubekeur%20-0077B?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/chouaib.bob2" target="_blank"><img  src="https://img.shields.io/badge/-Chouaib%20Boubekeur%20-0077B?style=flat&logo=Facebook&logoColor=white"/></a>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I36PBDD)
 
