@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <h2 align="center">💻 Technologies :</h2>
 
 <div align="center" style="display: inline_block; padding-top:10px; background-color:#FFF; border-radius:20px">
-'''
+```
  <img width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" />
  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-'''
+```
 </div>
 
 <br>
