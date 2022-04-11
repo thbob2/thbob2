@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   </p>
   <h2 align="center">💻 Technologies :</h2>
 
-<div align="center" style="display: inline_block; padding-top:10px; background-color:#FFF; border-radius:20px">
+<div align="center" style="display: inline_block; padding-top:10px; background-color: white; border-radius:20px">
 
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
