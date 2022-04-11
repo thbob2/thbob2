@@ -35,9 +35,10 @@ Here are some ideas to get you started:
 
   </p>
   <h2 align="center">💻 Technologies :</h2>
-</p>
-<div align="center" style="display: inline_block; padding-top:10px; background-color:#FFF; border-radius:20px" class="alert alert-block alert-success" >
-<img width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+<div align="center" style="display: inline_block; padding-top:10px; background-color:#FFF; border-radius:20px">
+'''
+ <img width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" />
@@ -64,8 +65,9 @@ Here are some ideas to get you started:
  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" />
  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-
+'''
 </div>
+
 <br>
 <div align="center">
 
@@ -87,8 +89,8 @@ Here are some ideas to get you started:
 <br>
 
 <br>
-<h2>⚙️ &nbsp;GitHub Analytics</h2>
 
+<h2 align="center">⚙️ &nbsp;GitHub Analytics</h2>
 <p align="center">
 <a href="https://github.com/thbob2">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thbob2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
