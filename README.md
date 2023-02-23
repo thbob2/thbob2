@@ -29,9 +29,9 @@ Here are some ideas to get you started:
  <p align="center"> 
   My name is Chouaib Boubekeur I'm a web developer based in Algeria
   <br>
-  🔭 I’m currently working on a Sentiment Analysis (Opinion Mining) tool with Python
-  <br>
-  👨‍🚀 I’m currently learning NEXT.js & GraphQL
+  
+  <br> 
+  👨‍🚀
 
   </p>
   <h2 align="center">💻 Technologies :</h2>
