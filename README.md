@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 <div align="center" style="display: inline_block; padding-top:10px; background-color: white; border-radius:20px">
 
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -59,7 +58,6 @@ Here are some ideas to get you started:
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" />
@@ -75,9 +73,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/chouaib-boubekeur/" target="_blank"><img src="https://img.shields.io/badge/-Chouaib%20Boubekeur%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/boe.desu" target="_blank"><img  src="https://img.shields.io/badge/-@boe.desu-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
-<a href="https://www.facebook.com/chouaib.bob2" target="_blank"><img  src="https://img.shields.io/badge/-Chouaib%20Boubekeur%20-0077B?style=flat&logo=Facebook&logoColor=white"/></a>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I36PBDD)
 
 </div>
 </div>
@@ -99,6 +94,5 @@ Here are some ideas to get you started:
  
  
  [linkedin]: https://www.linkedin.com/in/chouaib-boubekeur/
- [facebook]: https://www.facebook.com/chouaib.bob2/
- [instagram]: https://www.instagram.com/itsboeplz/
- [behance]: https://www.behance.net/itsboe
+ [instagram]: https://www.instagram.com/boe.desu/
+
